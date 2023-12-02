@@ -9,7 +9,7 @@
 | Day | Title                                                         | Solution                   | Level   | Points |
 | --- | ------------------------------------------------------------- | -------------------------- | ------- | ------ |
 | #01 | [First gift repeated!](./day01/README.md)                     | [result](./day01/index.js) | Easy    | 150    |
-| #02 | [         ](./day02/README.md)                                | [result](./day02/index.js) |         |        |
+| #02 | [We start the factory](./day02/README.md)                     | [result](./day02/index.js) | Easy    | 270    |
 | #03 | [](./day03/README.md)| [result](./day03/index.js) |         |        |
 | #04 | [](./day04/README.md)| [result](./day04/index.js) |         |        |
 | #05 | [](./day05/README.md)| [result](./day05/index.js) |         |        |
