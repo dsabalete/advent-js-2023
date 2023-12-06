@@ -13,7 +13,7 @@
 | #03 | [The naughty elf](./day03/README.md)                          | [result](./day03/index.js) | Easy    | 330    |
 | #04 | [Turn the parentheses around](./day04/README.md)              | [result](./day04/index.js) | Medium  | 250    |
 | #05 | [Santa's CyberTruck](./day05/README.md)                       | [result](./day05/index.js) | Medium  | 150    |
-| #06 | [](./day06/README.md)| [result](./day06/index.js) |         |        |
+| #06 | [The reindeer on trial](./day06/README.md)                    | [result](./day06/index.js) | Easy    | 270    |
 | #07 | [](./day07/README.md)| [result](./day07/index.js) |         |        |
 | #08 | [](./day08/README.md)| [result](./day08/index.js) |         |        |
 | #09 | [](./day09/README.md)| [result](./day09/index.js) |         |        |
