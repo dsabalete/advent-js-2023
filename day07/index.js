@@ -1,31 +1,28 @@
 function drawGift(size, symbol) {
   let result = []
   let line = ''
-  for (let i = 0; i < size; i++) {
-    const space = Math.abs(size - i - 1)
+
+  function drawLine(size, symbol, i) {
     const side = i > 1 ? symbol.repeat(i - 1) : ''
     const ending = i > 0 ? side + '#' : ''
-    if (i === 0 || i === size - 1) {
-      line = ' '.repeat(space) + '#'.repeat(size) + ending + '\n'
+    const isBorder = i === 0 || i === size - 1
+    let front
+    if (isBorder) {
+      front = '#'.repeat(size)
     } else {
-      const front = '#' + symbol.repeat(size - 2) + '#'
-      line = ' '.repeat(space) + front + ending + '\n'
+      front = '#' + symbol.repeat(size - 2) + '#'
     }
+    return front + ending + '\n'
+  }
+
+  for (let i = 0; i < size; i++) {
+    const space = Math.abs(size - i - 1)
+    line = ' '.repeat(space) + drawLine(size, symbol, i)
     result.push(line)
   }
   for (let i = size - 2; i >= 0; i--) {
-    const side = i > 1 ? symbol.repeat(i - 1) : ''
-    const ending = i > 0 ? side + '#' : ''
-
-    if (i === 0 || i === size - 1) {
-      line = '#'.repeat(size) + ending + '\n'
-    } else {
-      line = '#' + symbol.repeat(size - 2) + '#' + ending + '\n'
-    }
-
-    result.push(line)
+    result.push(drawLine(size, symbol, i))
   }
-
   return result.join('')
 }
 
