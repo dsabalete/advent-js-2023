@@ -16,7 +16,7 @@
 | #06 | [The reindeer on trial](./day06/README.md)                    | [result](./day06/index.js) | Easy    | 270    |
 | #07 | [The 3D Boxes](./day07/README.md)                             | [result](./day07/index.js) | Easy    | 190    |
 | #08 | [Sorting the warehouse](./day08/README.md)                    | [result](./day08/index.js) | Medium  | 210    |
-| #09 | [](./day09/README.md)| [result](./day09/index.js) |         |        |
+| #09 | [Switch the lights](./day09/README.md)                        | [result](./day09/index.js) | Easy    | 190    |
 | #10 | [](./day10/README.md)| [result](./day10/index.js) |         |        |
 | #11 | [](./day11/README.md)| [result](./day11/index.js) |         |        |
 | #12 | [](./day12/README.md)| [result](./day12/index.js) |         |        |
