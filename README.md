@@ -17,7 +17,7 @@
 | #07 | [The 3D Boxes](./day07/README.md)                             | [result](./day07/index.js) | Easy    | 190    |
 | #08 | [Sorting the warehouse](./day08/README.md)                    | [result](./day08/index.js) | Medium  | 210    |
 | #09 | [Switch the lights](./day09/README.md)                        | [result](./day09/index.js) | Easy    | 190    |
-| #10 | [](./day10/README.md)| [result](./day10/index.js) |         |        |
+| #10 | [Create your own Christmas tree](./day10/README.md)           | [result](./day10/index.js) | Easy    | 160    |
 | #11 | [](./day11/README.md)| [result](./day11/index.js) |         |        |
 | #12 | [](./day12/README.md)| [result](./day12/index.js) |         |        |
 | #13 | [](./day13/README.md)| [result](./day13/index.js) |         |        |
