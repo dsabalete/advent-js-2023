@@ -19,7 +19,7 @@
 | #09 | [Switch the lights](./day09/README.md)                        | [result](./day09/index.js) | Easy    | 190    |
 | #10 | [Create your own Christmas tree](./day10/README.md)           | [result](./day10/index.js) | Easy    | 160    |
 | #11 | [The studious elves](./day11/README.md)                       | [result](./day11/index.js) | Medium  | 40     |
-| #12 | [](./day12/README.md)| [result](./day12/index.js) |         |        |
+| #12 | [It is a valid copy](./day12/README.md)                       | [result](./day12/index.js) | Medium  | 25     |
 | #13 | [](./day13/README.md)| [result](./day13/index.js) |         |        |
 | #14 | [](./day14/README.md)| [result](./day14/index.js) |         |        |
 | #15 | [](./day15/README.md)| [result](./day15/day15.js) |         |        |
