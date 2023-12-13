@@ -38,25 +38,25 @@ function checkIsValidCopy(original, copy) {
   let index = 0
 
   for (const letter of original) {
-      const copyLetter = copy[index++]
+    const copyLetter = copy[index++]
 
-      const isValidLetter = [
-          letter.toLowerCase(),
-          '#',
-          '+',
-          ':',
-          '.',
-          ' ',
-      ].includes(copyLetter)
+    const isValidLetter = [
+      letter.toLowerCase(),
+      '#',
+      '+',
+      ':',
+      '.',
+      ' ',
+    ].includes(copyLetter)
 
-      const isCopyLetterBlankSpace = copyLetter === ' '
-      const isLetterBlankSpace = letter === ' '
+    const isCopyLetterBlankSpace = copyLetter === ' '
+    const isLetterBlankSpace = letter === ' '
 
-      const isValidCharacter = [isValidLetter, isCopyLetterBlankSpace][
-          +isLetterBlankSpace
-      ]
+    const isValidCharacter = [isValidLetter, isCopyLetterBlankSpace][
+      +isLetterBlankSpace
+    ]
 
-      isValidCopy = [isValidCopy, isValidCharacter][+isValidCopy]
+    isValidCopy = [isValidCopy, isValidCharacter][+isValidCopy]
   }
 
   return isValidCopy
@@ -65,4 +65,4 @@ function checkIsValidCopy(original, copy) {
 
 // console.log(checkIsValidCopy('3 #egalos', '3 .+:# #:'))
 
-module.exports =  checkIsValidCopy
+module.exports = checkIsValidCopy
