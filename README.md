@@ -22,7 +22,7 @@
 | #12 | [It is a valid copy](./day12/README.md)                       | [result](./day12/index.js) | Medium  | 25     |
 | #13 | [Calculating the time](./day13/README.md)                     | [result](./day13/index.js) | Easy    | 80     |
 | #14 | [Avoid the alarm](./day14/README.md)                          | [result](./day14/index.js) | Medium  | --     |
-| #15 | [](./day15/README.md)| [result](./day15/day15.js) |         |        |
+| #15 | [Autonomous Robot](./day15/README.md)                         | [result](./day15/day15.js) | Medium  | 25     |
 | #16 | [](./day16/README.md)| [result](./day16/index.js) |         |        |
 | #17 | [](./day17/README.md)| [result](./day17/index.js) |         |        |
 | #18 | [](./day18/README.md)| [result](./day18/index.js) |         |        |
