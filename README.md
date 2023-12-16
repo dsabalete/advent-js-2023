@@ -23,7 +23,7 @@
 | #13 | [Calculating the time](./day13/README.md)                     | [result](./day13/index.js) | Easy    | 80     |
 | #14 | [Avoid the alarm](./day14/README.md)                          | [result](./day14/index.js) | Medium  | --     |
 | #15 | [Autonomous Robot](./day15/README.md)                         | [result](./day15/day15.js) | Medium  | 25     |
-| #16 | [](./day16/README.md)| [result](./day16/index.js) |         |        |
+| #16 | [Friday deployment](./day16/README.md)                        | [result](./day16/index.js) | Easy    | 25     |
 | #17 | [](./day17/README.md)| [result](./day17/index.js) |         |        |
 | #18 | [](./day18/README.md)| [result](./day18/index.js) |         |        |
 | #19 | [](./day19/README.md)| [result](./day19/index.js) |         |        |
