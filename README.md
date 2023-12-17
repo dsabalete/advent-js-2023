@@ -24,7 +24,7 @@
 | #14 | [Avoid the alarm](./day14/README.md)                          | [result](./day14/index.js) | Medium  | --     |
 | #15 | [Autonomous Robot](./day15/README.md)                         | [result](./day15/day15.js) | Medium  | 25     |
 | #16 | [Friday deployment](./day16/README.md)                        | [result](./day16/index.js) | Easy    | 25     |
-| #17 | [](./day17/README.md)| [result](./day17/index.js) |         |        |
+| #17 | [Optimizing the rental](./day17/README.md)                    | [result](./day17/index.js) | Easy    | 140    |
 | #18 | [](./day18/README.md)| [result](./day18/index.js) |         |        |
 | #19 | [](./day19/README.md)| [result](./day19/index.js) |         |        |
 | #20 | [](./day20/README.md)| [result](./day20/day20.js) |         |        |
