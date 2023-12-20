@@ -27,7 +27,7 @@
 | #17 | [Optimizing the rental](./day17/README.md)                    | [result](./day17/index.js) | Easy    | 140    |
 | #18 | [The Digital clock](./day18/README.md)                        | [result](./day18/index.js) | Hard    | 25     |
 | #19 | [Face the sabotage](./day19/README.md)                        | [result](./day19/index.js) | Medium  | 25     |
-| #20 | [](./day20/README.md)| [result](./day20/day20.js) |         |        |
+| #20 | [Distribute the weight](./day20/README.md)                    | [result](./day20/day20.js) | Hard    | 25     |
 | #21 | [](./day21/README.md)| [result](./day21/index.js) |         |        |
 | #22 | [](./day22/README.md)| [result](./day22/index.js) |         |        |
 | #23 | [](./day23/README.md)| [result](./day23/day23.js) |         |        |
