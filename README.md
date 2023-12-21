@@ -22,13 +22,13 @@
 | #12 | [It is a valid copy](./day12/README.md)                       | [result](./day12/index.js) | Medium  | 25     |
 | #13 | [Calculating the time](./day13/README.md)                     | [result](./day13/index.js) | Easy    | 80     |
 | #14 | [Avoid the alarm](./day14/README.md)                          | [result](./day14/index.js) | Medium  | --     |
-| #15 | [Autonomous Robot](./day15/README.md)                         | [result](./day15/day15.js) | Medium  | 25     |
+| #15 | [Autonomous Robot](./day15/README.md)                         | [result](./day15/index.js) | Medium  | 25     |
 | #16 | [Friday deployment](./day16/README.md)                        | [result](./day16/index.js) | Easy    | 25     |
 | #17 | [Optimizing the rental](./day17/README.md)                    | [result](./day17/index.js) | Easy    | 140    |
 | #18 | [The Digital clock](./day18/README.md)                        | [result](./day18/index.js) | Hard    | 25     |
 | #19 | [Face the sabotage](./day19/README.md)                        | [result](./day19/index.js) | Medium  | 25     |
-| #20 | [Distribute the weight](./day20/README.md)                    | [result](./day20/day20.js) | Hard    | 25     |
-| #21 | [](./day21/README.md)| [result](./day21/index.js) |         |        |
+| #20 | [Distribute the weight](./day20/README.md)                    | [result](./day20/index.js) | Hard    | 25     |
+| #21 | [Binary message](./day21/README.md)                           | [result](./day21/index.js) | Medium  | 210    |
 | #22 | [](./day22/README.md)| [result](./day22/index.js) |         |        |
 | #23 | [](./day23/README.md)| [result](./day23/day23.js) |         |        |
 | #24 | [](./day24/README.md)| [result](./day24/index.js) |         |        |
