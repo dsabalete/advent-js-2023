@@ -29,7 +29,7 @@
 | #19 | [Face the sabotage](./day19/README.md)                        | [result](./day19/index.js) | Medium  | 25     |
 | #20 | [Distribute the weight](./day20/README.md)                    | [result](./day20/index.js) | Hard    | 25     |
 | #21 | [Binary message](./day21/README.md)                           | [result](./day21/index.js) | Medium  | 210    |
-| #22 | [](./day22/README.md)| [result](./day22/index.js) |         |        |
+| #22 | [Programming language](./day22/README.md)                     | [result](./day22/index.js) | Easy    | 50     |
 | #23 | [](./day23/README.md)| [result](./day23/day23.js) |         |        |
 | #24 | [](./day24/README.md)| [result](./day24/index.js) |         |        |
 | #25 | [](./day25/README.md)| [result](./day25/index.js) |         |        |
