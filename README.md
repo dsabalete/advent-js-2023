@@ -31,8 +31,8 @@
 | #21 | [Binary message](./day21/README.md)                           | [result](./day21/index.js) | Medium  | 210    |
 | #22 | [Programming language](./day22/README.md)                     | [result](./day22/index.js) | Easy    | 50     |
 | #23 | [Christmas dinner](./day23/README.md)                         | [result](./day23/day23.js) | Easy    | 50     |
-| #24 | [Jump on the stairs](./day24/README.md)                       | [result](./day24/index.js) | Meidum  | 40     |
-| #25 | [](./day25/README.md)| [result](./day25/index.js) |         |        |
+| #24 | [Jump on the stairs](./day24/README.md)                       | [result](./day24/index.js) | Medium  | 40     |
+| #25 | [Calculating distances](./day25/README.md)                    | [result](./day25/index.js) | Medium  |        |
 
 ## Tests
 
